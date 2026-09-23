@@ -1,0 +1,12 @@
+.button{
+  background-color: rgb(146, 99, 99);
+  color: wheat;
+  border: none;
+  padding: 5px;
+  margin: 30px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 5px blueviolet;
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+}

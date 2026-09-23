@@ -1,0 +1,9 @@
+.submit{
+  position: relative;
+  left: 100px;
+}
+
+.reset{
+  position: relative;
+  right: 100px;
+}
